@@ -30,16 +30,7 @@
         font-size: 15px;
         
     }
-    .lesson-list ul li{
-        list-style: image url(../img/services/kashpng.png);}
-        .service-end ul li {
-            list-style: image url(../img/services/kashpng.png);
-        }
-        .work-list ul li{
     
-            list-style: image url(../img/services/ok.png);
-              
-        }
     
     
 }
@@ -50,17 +41,6 @@
         align-items: center;
         text-align: center;
     }
-    .lesson-list ul li{
-        list-style: image url(../img/services/kashpng.png);}
-        .service-end ul li {
-            list-style: image url(../img/services/kashpng.png);
-        }
-        .work-list ul li{
-    
-            list-style: image url(../img/services/ok.png);
-              
-        }
-   
 }
 
  
@@ -70,16 +50,6 @@
         font-size: 28px;
         line-height: 1.3;
     }
-    .lesson-list ul li{
-        list-style: image url(../img/services/kashpng.png);}
-        .service-end ul li {
-            list-style: image url(../img/services/kashpng.png);
-        }
-        .work-list ul li{
-    
-            list-style: image url(../img/services/ok.png);
-              
-        }
     .header-content p{
         font-size: 16px;
     }

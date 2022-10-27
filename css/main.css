@@ -178,14 +178,12 @@ body.lock{
     padding: 0 20px 30px 35px;
     
 }
- .lesson-list ul li{
-    list-style: image url(../img/services/kashpng.png);
+ .service-end ul li{
+    list-style: image url(../img/socials/okay.png);
     
 } 
 
-.service-end ul li {
-    list-style: image url(../img/services/kashpng.png);
-}
+
 .service-item {
     font-weight: 600;
     font-size: 21px;

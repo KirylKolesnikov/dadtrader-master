@@ -572,7 +572,7 @@ border-radius: 50%;
 
 /* Bank Pay */
 .bank-pay {
-    margin-top: 55px;
+    
 	display: flex;
     justify-content: space-between;
     gap: 5px;

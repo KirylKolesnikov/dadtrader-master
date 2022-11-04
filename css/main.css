@@ -583,6 +583,21 @@ border-radius: 50%;
 .pay-item {
     width: 8%;
 }
+.oferta {
+    padding: 30px;
+    text-align: center;
+    color: #7e7e7f;
+}
+.oferta-title {
+}
+.oferta-title span{
+    text-decoration: underline;
+    
+}
+.word{
+    color: #000;
+}
+
 
 /* Footer */
 

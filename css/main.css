@@ -386,6 +386,10 @@ border-radius: 50%;
     color:#ffb300;
 }
 
+.price-title span{
+    font-size: 14px;
+}
+
 
 .buy-link {
     list-style: circle;
@@ -588,8 +592,7 @@ border-radius: 50%;
     text-align: center;
     color: #7e7e7f;
 }
-.oferta-title {
-}
+
 .oferta-title span{
     text-decoration: underline;
     
